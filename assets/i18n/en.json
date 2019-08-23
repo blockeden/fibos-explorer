@@ -176,7 +176,7 @@
     "WrongPublicKeyFormat": "Wrong Public Key Format",
     "Cpu/NetBothEmpty": "Cpu/Net Both Empty",
     "Completion": "Completion",
-    "VoteByIronman": "Vote by Ironman plugin",
+    "VoteByIronman": "Vote by Plugin",
     "VotingRecommend": "This Explorer is developed by :",
     "ClaimForVote": "Claim For Vote",
     "Claim": "Claim",
@@ -190,5 +190,6 @@
     "RamExchange": "Ram Exchange",
     "NameAuction": "Name Auction",
     "LockedBalance":"Locked Balance",
-    "UnlockedBlance":"Unlocked Blance"
+    "UnlockedBlance":"Unlocked Blance",
+    "LoginPlugin": "Login Plugin"
 }
