@@ -193,5 +193,6 @@
     "UnlockedBlance": "Unlocked Blance",
     "LoginPlugin": "Login Plugin",
     "VoteByPlugin": "Vote By Plugin",
-    "VoteProxy": "Vote Proxy"
+    "VoteProxy": "Vote Proxy",
+    "ProxyDesc": "You can only choose one proxy"
 }
