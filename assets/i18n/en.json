@@ -189,7 +189,9 @@
     "VoteFor": "Vote for",
     "RamExchange": "Ram Exchange",
     "NameAuction": "Name Auction",
-    "LockedBalance":"Locked Balance",
-    "UnlockedBlance":"Unlocked Blance",
-    "LoginPlugin": "Login Plugin"
+    "LockedBalance": "Locked Balance",
+    "UnlockedBlance": "Unlocked Blance",
+    "LoginPlugin": "Login Plugin",
+    "VoteByPlugin": "Vote By Plugin",
+    "VoteProxy": "Vote Proxy"
 }

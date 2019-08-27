@@ -284,6 +284,8 @@
     "memo": "备注",
     "lastUpdateTime": "上次更新时间",
     "VoteBonusDesc": "需要做一次抵押或解除抵押操作才能激活收益，投票节点数必须大于0，收益领取后需要半年时间解锁。",
-    "LockedBalance":"锁仓余额",
-    "UnlockedBlance":"已解锁余额"
+    "LockedBalance": "锁仓余额",
+    "UnlockedBlance": "已解锁余额",
+    "VoteByPlugin": "使用插件投票",
+    "VoteProxy": "投票代理"
 }
