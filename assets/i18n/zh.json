@@ -76,6 +76,7 @@
     "VoteFor": "投票给",
     "VoteWeight": "投票权重",
     "ProxiedVoteWeight": "被代理权重",
+    "Proxied Vote": "被代理票数",
     "IsProxy": "是否代理人",
     "Unstaking": "解除抵押中",
     "ProducerAccount": "节点账户",
