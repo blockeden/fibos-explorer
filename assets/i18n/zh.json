@@ -303,5 +303,8 @@
     "Background": "背景",
     "Unregister Proxy": "注销代理人",
     "Logo Url": "头像地址",
-    "Delete Proxy Info": "删除代理人信息"
+    "Delete Proxy Info": "删除代理人信息",
+    "Yes": "是",
+    "No": "否",
+    "Vote Quantity": "票数"
 }
