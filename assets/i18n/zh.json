@@ -216,7 +216,7 @@
     "TokenSymbol": "代币名称",
     "Memo": "备注",
     "Optional": "可选",
-    "CreateAccountDesc": "可以使用Ironman插件生成公私钥.",
+    "CreateAccountDesc": "点击工具生成公私钥",
     "Creator": "创建者",
     "NewAccountName": "新账户名",
     "PublicKey": "公钥",

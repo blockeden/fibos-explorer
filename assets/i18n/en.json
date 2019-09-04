@@ -150,7 +150,7 @@
     "FoMarket": "Fo Market",
     "FONotes": "Note: Since the total amount of FO issued is ten times that of EOS, the initial value of the current price is 10 times that of EOS ",
     "FONoteSign": "equivalent to",
-    "CreateAccountDesc": "You can use Ironman to generate key pair.",
+    "CreateAccountDesc": "Click tool to generate key pair",
     "TransferFlagDesc": "If checked, the stake belongs to receiver account. If unchecked, the stake belongs to yourself.",
     "NewAccountDesc": "Account Name (12 characters using a-z and 1-5 only)",
     "PublicKeyDesc": "String begins with ",
