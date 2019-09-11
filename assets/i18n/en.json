@@ -194,5 +194,7 @@
     "LoginPlugin": "Login Plugin",
     "VoteByPlugin": "Vote By Plugin",
     "VoteProxy": "Vote Proxy",
-    "ProxyDesc": "You can only choose one proxy"
+    "ProxyDesc": "You can only choose one proxy",
+    "ClaimForUnlockFO": "Claim For Unlock FO",
+    "UnlockFoDesc":"Claim for unlock FO in one time"
 }

@@ -307,5 +307,8 @@
     "Delete Proxy Info": "删除代理人信息",
     "Yes": "是",
     "No": "否",
-    "Vote Quantity": "票数"
+    "Vote Quantity": "票数",
+    "Unlock": "解锁",
+    "ClaimForUnlockFO": "领取解锁FO",
+    "UnlockFoDesc": "一次性领取解锁FO"
 }
