@@ -189,6 +189,7 @@
     "LiveStatus": "实时状态",
     "CurrentBlockProducer": "当前出块人",
     "ServerVersion": "节点版本",
+    "ProducerHealthRate": "出块节点出勤率",
     "LastBlock": "最新区块",
     "IrreversibleBlock": "不可逆区块",
     "ProducingNode": "出块节点",
